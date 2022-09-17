@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Fun with promises",
   "main": "index.js",
+  "engines": {
+    "node": "16.16.0"
+  },
   "scripts": {
     "start": "node index.js"
   },
